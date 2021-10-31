@@ -24,7 +24,7 @@
   
 </p>
 
-
+<br>
 
 <h3 align="center">📌 Contact </h3>
 <p align="center">
@@ -32,7 +32,8 @@
   <a href="https://www.instagram.com/wotjd4863/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Notion&logoColor=white&link=https://www.instagram.com/wotjd4863/"/></a>&nbsp
   <a href=mailto:wotjd5792@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=wotjd5792@gmail.com"/></a>
 </p>
-
+<br>
+<br>
 <div align="center" style="text-align:center">
                                              
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kancho06)](https://github.com/kancho06/github-readme-stats)
