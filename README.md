@@ -36,7 +36,9 @@
 <br>
 <div align="center" style="text-align:center">
                                              
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kancho06)](https://github.com/kancho06/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kancho06&theme=nord)](https://github.com/kancho06/github-readme-stats)
+                                             
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kancho06&layout=compact)](https://github.com/kancho06/github-readme-stats)
 
 
 
