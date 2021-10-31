@@ -1,33 +1,43 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=Jason%20Lee&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=200&section=header&text=Jason%20Lee&fontSize=80)
 
 
+<p align="center">:kr: :jp:</p>
 
 
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-###  🛠 Teck Stack 🛠
+<p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-#3776AB?style=flat&logo=Python&logoColor=white></a>&nbsp 
-  <img src="https://img.shields.io/badge/Flask-#000000?style=flat&logo=Flask&logoColor=white&link=https://flask.palletsprojects.com/en/2.0.x/"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-#007396?style=flat&logo=Java&logoColor=white&link=https://docs.oracle.com/en/java/"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white&link=https://spring.io/"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
+  
 </p>
 
 
 
+<h3 align="center">📌 Contact </h3>
+<p align="center">
+  <a href="https://www.notion.so/bc7e13c185344d97aa1a3b2a97533cee"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/bc7e13c185344d97aa1a3b2a97533cee"/></a>&nbsp
+  <a href="https://www.instagram.com/wotjd4863/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Notion&logoColor=white&link=https://www.instagram.com/wotjd4863/"/></a>&nbsp
+  <a href=matilto:wotjd5792@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=matilto:wotjd5792@gmail.com"/></a>
+</p>
+  
+<br>
 
-
-### 📌 Contact
-
-![](https://img.shields.io/badge/Notion-#000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/bc7e13c185344d97aa1a3b2a97533cee) ![](https://img.shields.io/badge/Instagram-#E4405F?style=flat&logo=Notion&logoColor=white&link=https://www.instagram.com/wotjd4863/) ![](https://img.shields.io/badge/Gmail-#EA4335?style=flat&logo=Gmail&logoColor=white&link=matilto:wotjd5792@gmail.com) 
-
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkancho06%2Fhit-counter&count_bg=%23AAA9A4&title_bg=%23333333&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+  
+  
+  
