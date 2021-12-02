@@ -29,7 +29,7 @@
 <h3 align="center">📌 Contact </h3>
 <p align="center">
   <a href="https://www.notion.so/bc7e13c185344d97aa1a3b2a97533cee"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/bc7e13c185344d97aa1a3b2a97533cee"/></a>&nbsp
-  <a href="https://www.instagram.com/wotjd4863/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Notion&logoColor=white&link=https://www.instagram.com/wotjd4863/"/></a>&nbsp
+  <a href="https://www.instagram.com/wotjd4863/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/wotjd4863/"/></a>&nbsp
   <a href=mailto:wotjd5792@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=wotjd5792@gmail.com"/></a>
 </p>
 <br>
