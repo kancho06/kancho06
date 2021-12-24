@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=200&section=header&text=Jason%20Lee&fontSize=80)
+<!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=200&section=header&text=Jason%20Lee&fontSize=80)
 
 
 <p align="center">:kr: :jp:</p>
@@ -22,7 +22,7 @@
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
   
-</p>
+</p> -->
 
 <br>
 
